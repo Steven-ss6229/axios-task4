@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/axios-task4/static/css/main.db798329.css",
+    "main.js": "/axios-task4/static/js/main.3fcd8405.js",
+    "static/js/787.637e0c58.chunk.js": "/axios-task4/static/js/787.637e0c58.chunk.js",
+    "index.html": "/axios-task4/index.html",
+    "main.db798329.css.map": "/axios-task4/static/css/main.db798329.css.map",
+    "main.3fcd8405.js.map": "/axios-task4/static/js/main.3fcd8405.js.map",
+    "787.637e0c58.chunk.js.map": "/axios-task4/static/js/787.637e0c58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.3fcd8405.js"
+  ]
+}
